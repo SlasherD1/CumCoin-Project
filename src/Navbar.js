@@ -21,7 +21,7 @@ const Navbar = () => {
       {/* Desktop menu */}
       <ul className="hidden md:flex items-center gap-8">
         <a
-          href="https://x.com/DoomerCoinnn"
+          href="https://x.com/cumcoinn"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2"
@@ -32,7 +32,7 @@ const Navbar = () => {
           <span className="text-4xl font-boldoa2">X: LINK</span>
         </a>
         <a
-          href="https://t.me/Doomer_Coinn"
+          href="https://t.me/Cumcoinn"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2"
@@ -59,7 +59,7 @@ const Navbar = () => {
       {menuOpen && (
         <ul className="absolute top-16 left-0 w-full flex flex-col items-center gap-6 py-6 md:hidden">
           <a
-            href="https://x.com/Clitcoinn"
+            href="https://x.com/cumcoinn"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2"
@@ -70,7 +70,7 @@ const Navbar = () => {
             <span className="text-4xl font-boldoa2">X: LINK</span>
           </a>
           <a
-            href="https://t.me/clitoris_coin"
+            href="https://t.me/Cumcoinn"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2"

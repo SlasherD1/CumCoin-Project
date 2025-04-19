@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import { FaTelegram, FaXTwitter } from "react-icons/fa6";
 import { FaTelegramPlane } from "react-icons/fa";
-import logoPump from "./assets/images/logo_pump.png";
+import logoPump from "./assets/images/pump_black.png";
 import logoDex from "./assets/images/logo_dex.png";
 
 const Footer = () => {
@@ -20,7 +20,7 @@ const Footer = () => {
             </div>
           </a>
           <div className="min-w-[40px] min-h-[40px] flex items-center justify-center overflow-hidden">
-            <img src={logoPump} alt="DEX" width={30} height={24} />
+            <img src={logoPump} alt="DEX" width={35} height={24} />
           </div>
           <a
             href="https://t.me/Doomer_Coinn"
@@ -36,7 +36,7 @@ const Footer = () => {
           </div>
         </div>
         <span className="font-boldoa text-3xl reguler">
-          ©Doomercoin All rights reserved
+          ©Cumcoin All rights reserved
         </span>
       </div>
     </footer>

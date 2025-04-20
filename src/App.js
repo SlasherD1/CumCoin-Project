@@ -33,9 +33,9 @@ const App = () => {
           className="w-[500px] md:w-[600px] lg:w-[700px] h-auto z-10"
         />
 
-        {/* <h1 className="text-sm md:text-lg lg:text-2xl bg-yellow-500 rounded-xl font-bold text-black py-2 px-4 z-10">
-          CA : CjAreLw1YXcCv5g4iRT7VMouuMfa8Rvtt7mynsdr8qDJ
-        </h1> */}
+        <h1 className="text-sm md:text-lg lg:text-2xl bg-yellow-500 rounded-xl font-bold text-black py-2 px-4 z-10">
+          CA : B5m4QqmJHBUS5oTbcYqVV9neGgyQ5jNy2qcGgRJpW1y1
+        </h1>
       </section>
 
       <br></br>
